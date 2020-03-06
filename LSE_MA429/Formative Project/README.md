@@ -7,6 +7,6 @@ Each individual should submit:
 
 Each team should submit the following, just one copy per team:
 * A print copy of the report, to COL 4.01.
-* A soft copy of the report, in pdf format, via the Moodle link. Please name the submission with one group member’s registration number, e.g., 201912345.pdf.
-* An electronic appendix including your R code, computational results, and any additional data you deem important, in a single zip file, also via the Moodle link. Again, please name this by the same group member’s registration number, e.g., 201912345.zip.
+* A soft copy of the report, in pdf format, via the Moodle link. Please name the submission with one group member’s registration number, e.g. 201912345.pdf.
+* An electronic appendix including your R code, computational results, and any additional data you deem important, in a single zip file, also via the Moodle link. Again, please name this by the same group member’s registration number, e.g. 201912345.zip.
 
