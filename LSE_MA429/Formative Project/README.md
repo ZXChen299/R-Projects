@@ -1,5 +1,5 @@
 # MA429 Formative Project
-The submission deadline is Thursday 19th March 2020, 4pm. \
+The submission deadline is Thursday 19th March 2020, 4pm. \ \
 Please include all group members’ registration numbers and names within the submission, to be sure. Do not use your candidate exam numbers anywhere in these submissions!\
 Each individual should submit:\
 •	A completed Individual Reflection and Contribution form.\
